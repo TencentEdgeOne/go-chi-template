@@ -167,7 +167,7 @@ type Todo struct {
 
 ## 📚 文档入口
 
-- **EdgeOne Pages 官方文档**：[https://edgeone.ai/document/go-functions](https://edgeone.ai/document/go-functions)
+- **EdgeOne Pages 官方文档**：[https://pages.edgeone.ai/document/go](https://pages.edgeone.ai/document/go)
 - **Chi 路由器文档**：[https://go-chi.io/#/README](https://go-chi.io/#/README)
 - **Next.js 文档**：[https://nextjs.org/docs](https://nextjs.org/docs)
 - **Tailwind CSS 文档**：[https://tailwindcss.com/docs](https://tailwindcss.com/docs)
